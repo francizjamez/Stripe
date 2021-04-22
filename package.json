@@ -1,0 +1,16 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "Stripe api testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis James Dela Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "*",
+    "readline": "^1.3.0",
+    "stripe": "^8.145.0"
+  }
+}
